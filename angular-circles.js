@@ -149,7 +149,7 @@
                 value: '=',
                 maxValue: '@',
                 width: '@',
-                text: '@',
+                text: '&',
                 colors: '=',
                 duration: '@',
                 wrpClass: '@',
